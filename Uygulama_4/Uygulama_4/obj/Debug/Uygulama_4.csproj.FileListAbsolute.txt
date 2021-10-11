@@ -1,0 +1,9 @@
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\bin\Debug\Uygulama_4.exe.config
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\bin\Debug\Uygulama_4.exe
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\bin\Debug\Uygulama_4.pdb
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\obj\Debug\Uygulama_4.csprojAssemblyReference.cache
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\obj\Debug\Uygulama_4.Form1.resources
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\obj\Debug\Uygulama_4.Properties.Resources.resources
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\obj\Debug\Uygulama_4.csproj.GenerateResource.cache
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\obj\Debug\Uygulama_4.exe
+F:\Cengizhan\2021-22\NTP_Uygulamalar\Uygulama_4\Uygulama_4\obj\Debug\Uygulama_4.pdb

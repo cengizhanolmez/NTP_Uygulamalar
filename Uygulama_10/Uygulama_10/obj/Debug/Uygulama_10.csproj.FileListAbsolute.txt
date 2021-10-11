@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\bin\Debug\Uygulama_10.exe.config
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\bin\Debug\Uygulama_10.exe
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\bin\Debug\Uygulama_10.pdb
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\obj\Debug\Uygulama_10.csprojAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\obj\Debug\Uygulama_10.Form1.resources
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\obj\Debug\Uygulama_10.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\obj\Debug\Uygulama_10.csproj.GenerateResource.cache
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\obj\Debug\Uygulama_10.exe
+C:\Users\LAB5-OGRETMEN\source\repos\Uygulama_10\Uygulama_10\obj\Debug\Uygulama_10.pdb
